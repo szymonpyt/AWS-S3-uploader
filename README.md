@@ -5,4 +5,4 @@ Script to automate uploading files into AWS S3 bucket
 Requirements:
 - create IAM policy for user(programmatic access) 
 - generate aws_access_key_id
-- generte  aws_secret_access_key
+- generate  aws_secret_access_key
