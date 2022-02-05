@@ -7,4 +7,4 @@ Requirements:
 
 
 Copy files to s3 bucket using Linux cli:
-aws s3 cp my-object s3://my-aws-bucket-name/
+- aws s3 cp my-object s3://my-aws-bucket-name/
