@@ -6,5 +6,5 @@ Requirements:
 - generate aws_secret_access_key
 
 
-Copy files to s3 bucket using Linux cli:
+Copy files to s3 bucket using aws cli:
 - aws s3 cp my-object s3://my-aws-bucket-name/
